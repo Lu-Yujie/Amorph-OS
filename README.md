@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amorph-OS
-- 👀 I’m interested in JS|HTML|CSS|Python.
+- 👀 I’m interested in JS |HTML |CSS |Python.
 - 🌱 I’m currently learning Telethon.
 - 💞️ I’m looking to collaborate on AI.
 - 📫 Reach Me On Telegram - @rulebreakerzzz
