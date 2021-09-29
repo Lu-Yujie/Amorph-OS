@@ -30,7 +30,7 @@ class Sphinx:
         return json.dumps(asdict(self), indent=4)
 slax = Stack()
 print(slax.serialize())
-printf("Talk Is Cheap.Show Me The Code!!"
+printf("Talk Is Cheap.Show Me The Code!!")
 ​
 
 
