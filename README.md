@@ -23,12 +23,16 @@ from dataclasses import asdict, dataclass
 
 
 @dataclass
-class Stack:
+class Sphinx:
     languages   : tuple[str, ...] = ("Python", "JS", "HTML", "CSS")
     ongoing     : tuple[str, ...] = ("PHP", "Telethon")
 
     def serialize(self):
         return json.dumps(asdict(self), indent=4)
+slax = Stack()
+print(slax.serialize())
+printf("Talk Is Cheap.Show Me The Code!!"
+​
 
 
 ```
