@@ -30,18 +30,12 @@ from dataclasses import asdict, dataclass
 
 @dataclass
 class Stack:
-    languages   : tuple[str, ...] = ("Python", "Bash", "HTML", "CSS")
-    misc        : tuple[str, ...] = ("Docker", "Linux", "FastAPI")
-    ongoing     : tuple[str, ...] = ("Django", "Java", "JavaScript")
+    languages   : tuple[str, ...] = ("Python", "JS", "HTML", "CSS")
+    ongoing     : tuple[str, ...] = ("PHP", "Telethon")
 
     def serialize(self):
         return json.dumps(asdict(self), indent=4)
 
-
-stack = Stack()
-print(stack.serialize())
-printf("Hola! Welcome To Safone's World !! 😎"
-​
 
 ```
 </h3>
