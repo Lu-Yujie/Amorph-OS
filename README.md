@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I Am Amorph-OS
-######### I Am Also Like You All. Managing My Studies With Programming. Aspiring Software Engineer.
+### I Am Also Like You All. Managing My Studies With Programming. Aspiring Software Engineer.
 <p align="center">
   <a href="https://t.me/rulebreakerzzz"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
