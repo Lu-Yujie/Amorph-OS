@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Amorph-OS
-- 👀 I’m interested in JS |HTML |CSS |Python.
-- 🌱 I’m currently learning Telethon.
-- 💞️ I’m looking to collaborate on AI.
-- 📫 Reach Me On Telegram - @rulebreakerzzz
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Amorph-OS |
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 𝗛𝗶, 𝗜 𝗔𝗺 𝗔𝗺𝗼𝗿𝗽𝗵-𝗢𝗦
 
 <p align="center">
   <a href="https://t.me/rulebreakerzzz"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
