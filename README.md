@@ -31,7 +31,7 @@ class Sphinx:
 slax = Stack()
 print(slax.serialize())
 printf("Talk Is Cheap.Show Me The Code!!")
-​
+
 
 
 ```
